@@ -1,7 +1,7 @@
 <h1 align="center">
 Mario Pyramid
 <br>
-  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid" style="max-height: 100px;">
+  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid" style="max-height: 50px;">
 <br>
 <br>
 </h1>
