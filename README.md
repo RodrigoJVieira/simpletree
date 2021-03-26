@@ -1,9 +1,9 @@
 <h1 align="center">
-<br>
-  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid">
-<br>
-<br>
 Mario Pyramid
+<br>
+  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid" style="max-height: 100px;">
+<br>
+<br>
 </h1>
 
 <p align="center">Building pyrimids automatically using C!</p>
