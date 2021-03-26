@@ -1,12 +1,12 @@
 <h1 align="center">
 Mario Pyramid
 <br>
-  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid" style="max-height: 50px;">
+  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid" style="height="200"">
 <br>
 <br>
 </h1>
 
-<p align="center">Building pyrimids automatically using C!</p>
+<p align="center">Building pyramids automatically using C!</p>
 
 <hr />
 
