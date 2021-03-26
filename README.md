@@ -8,11 +8,6 @@ Mario Pyramid
 
 <p align="center">Building pyrimids automatically using C!</p>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnjOWk4RT4PYbaNjMz/giphy.gif" height="425">
-</div>
-
 <hr />
 
 ## About Mario Pyramid
