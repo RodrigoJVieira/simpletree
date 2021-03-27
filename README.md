@@ -18,7 +18,7 @@ create automatic pyramids drawings as we see in mario's games.
 ## How it works
 
 To recreate those pyramids in C we will be using hashes (#) for bricks. Each hash is a bit taller than it is wide, so the pyramids themselves 
-are also be taller than they are wide.
+are also taller than they are wide.
 
 ## Using Mario Pyramid
 
