@@ -60,5 +60,6 @@ Height: 4
 
 <hr />
 <h1 align="center">
-Thank you!
+And if you are thinking "Aw, this tree is sooo boring..." You can try put some ornaments.
+  Thank you!
 </h1>
