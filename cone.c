@@ -3,29 +3,28 @@
 
 int main(void)
 {
-    int blocks, j, i, k;
+    int tree, j, i, k;
 
     do
     {
-        blocks = get_int("Height: ");
+        tree = get_int("Height: ");
     }
-    while (blocks <1 || blocks > 8);
+    while (tree <1 || tree > 20);
 
-    for( i = 1; i <= blocks; i++)
+    for( i = 1; i <= tree; i++)
     {
-        for (j = 1; j <= (blocks - i); j++)
+        for (j = 1; j <= (tree - i); j++)
         {
             printf(" ");
         }
         for (k = 1; k <= i; k++)
         {
-            printf("#");
+            printf("/");
         }
-        printf("  ");
-
+      
         for (k = 1; k <= i; k++)
         {
-            printf("#");
+            printf("\\");
         }
         printf("\n");
     }
