@@ -1,52 +1,61 @@
 <h1 align="center">
-Mario Pyramid
+Christmas Tree
 <br>
-<br>  
-  <img src="https://raw.githubusercontent.com/draumzinho/mario-pyramid/main/assets/mario.png" alt="Mario Pyramid" height="275">
 <br>
 <br>
 </h1>
 
-<p align="center">Building pyramids automatically using C!</p>
+<p align="center">Building Christmas tree automatically using C!</p>
 
 <hr />
 
-## About Mario Pyramid
-Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks. This simple C program uses "for loops" to 
-create automatic pyramids drawings as we see in mario's games.
+## About Tree
+This simple C program uses "for loops" to create automatic trees drawings.
 
 ## How it works
 
-To recreate those pyramids in C we will be using hashes (#) for bricks. Each hash is a bit taller than it is wide, so the pyramids themselves 
+To recreate those trees in C we will be using slash and backslash (/ and \) for layers. Each layer is a bit taller than it is wide, so the trees themselves 
 are also taller than they are wide.
 
-## Using Mario Pyramid
+## Using Tree
 
-This program allows the user to decide just how tall the pyramids should be by first prompting them for a positive integer between 1 and 8, inclusive.
+This program allows the user to decide just how tall the trees should be by first prompting them for a positive integer between 1 and 20, inclusive.
 
-Here’s how the program might work if the user inputs 8 when prompted:
+Here’s how the program might work if the user inputs 20 when prompted:
 
 ```
-$ ./mario
-Height: 8
-       #  #
-      ##  ##
-     ###  ###
-    ####  ####
-   #####  #####
-  ######  ######
- #######  #######
-########  ########
+$ ./tree
+Height: 20
+                   /\
+                  //\\
+                 ///\\\
+                ////\\\\
+               /////\\\\\
+              //////\\\\\\
+             ///////\\\\\\\
+            ////////\\\\\\\\
+           /////////\\\\\\\\\
+          //////////\\\\\\\\\\
+         ///////////\\\\\\\\\\\
+        ////////////\\\\\\\\\\\\
+       /////////////\\\\\\\\\\\\\
+      //////////////\\\\\\\\\\\\\\
+     ///////////////\\\\\\\\\\\\\\\
+    ////////////////\\\\\\\\\\\\\\\\
+   /////////////////\\\\\\\\\\\\\\\\\
+  //////////////////\\\\\\\\\\\\\\\\\\
+ ///////////////////\\\\\\\\\\\\\\\\\\\
+////////////////////\\\\\\\\\\\\\\\\\\\\
 ```
 Here’s how the program might work if the user inputs 4 when prompted:
 
 ```
-$ ./mario
+$ ./tree
 Height: 4
-   #  #
-  ##  ##
- ###  ###
-####  ####
+   /\
+  //\\
+ ///\\\
+////\\\\
 ```
 
 <hr />
